@@ -7,16 +7,20 @@ foreach(scandir("lists") as $list)
 {
 	if(substr($list, -4) == ".txt")
 	{
-		fwrite($domains, "\n\n### ".substr($list, 0, -4)."\n\n".file_get_contents("lists/".$list));
+		fwrite($domains, "\n\n### ".substr($list, 0, -4)."\n\n".str_replace("\r", "", file_get_contents("lists/".$list)));
 	}
 }
 
 fclose($domains);
 
+$formats = json_decode(file_get_contents("formats.json"), true);
 $domains = fopen("output/domains.txt", "r");
-$hosts = fopen("output/hosts.txt", "w");
 
-fwrite($hosts, "127.0.0.1 localhost\n::1 localhost\n::1 ip6-localhost\n::1 ip6-loopback\n\n");
+foreach($formats as $i => $format)
+{
+	$formats[$i]["stream"] = fopen("output/".$format["name"], "w");
+	fwrite($formats[$i]["stream"], $format["note"]."\n\n");
+}
 
 $domain = "";
 $was_empty = false;
@@ -37,10 +41,16 @@ do {
 	{
 		if($domain != "" && substr($domain, 0, 1) != "#")
 		{
-			fwrite($hosts, "0.0.0.0 ".$domain."\n");
+			foreach($formats as $format)
+			{
+				fwrite($format["stream"], str_replace("{domain}", $domain, $format["mask"])."\n");
+			}
 		} else
 		{
-			fwrite($hosts, $domain."\n");			
+			foreach($formats as $format)
+			{
+				fwrite($format["stream"], $domain."\n");
+			}
 		}
 		$domain = "";
 	} else
@@ -49,6 +59,4 @@ do {
 	}
 } while(true);
 
-fclose($domains);
-fclose($hosts);
 ?>

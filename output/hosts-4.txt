@@ -1,3 +1,5 @@
+# IPv4 Hosts
+
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-localhost
@@ -39,6 +41,8 @@
 0.0.0.0 de.quasargaming.com
 0.0.0.0 hhourtrk2.com
 0.0.0.0 www.hhourtrk2.com
+0.0.0.0 binaryspiraltab.com
+0.0.0.0 www.binaryspiraltab.com
 
 ### Email Spammers
 
@@ -170,6 +174,9 @@
 0.0.0.0 leather-tech.co.uk
 0.0.0.0 wpemkt.com.br
 0.0.0.0 conferencenotify.net
+0.0.0.0 shatel.ir
+0.0.0.0 chirostop.com
+0.0.0.0 herbalcurls.com
 
 ### IP Loggers
 

@@ -1,0 +1,17 @@
+[
+	{
+		"name": "hosts-6.txt",
+		"note": "# IPv6 Hosts\n\n127.0.0.1 localhost\n::1 localhost\n::1 ip6-localhost\n::1 ip6-loopback",
+		"mask": ":: {domain}"
+	},
+	{
+		"name": "hosts-4.txt",
+		"note": "# IPv4 Hosts\n\n127.0.0.1 localhost\n::1 localhost\n::1 ip6-localhost\n::1 ip6-loopback",
+		"mask": "0.0.0.0 {domain}"
+	},
+	{
+		"name": "postfix_sender_access.txt",
+		"note": "# Postfix Sender Access File",
+		"mask": "{domain} REJECT"
+	}
+]
