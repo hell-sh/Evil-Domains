@@ -177,6 +177,11 @@
 0.0.0.0 shatel.ir
 0.0.0.0 chirostop.com
 0.0.0.0 herbalcurls.com
+0.0.0.0 apionline.biz
+0.0.0.0 ad-mind.biz
+0.0.0.0 mediacommerce.com.co
+0.0.0.0 sexysinglehomepages.com
+0.0.0.0 desiredhookups.eu
 
 ### IP Loggers
 

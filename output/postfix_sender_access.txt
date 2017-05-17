@@ -172,6 +172,11 @@ conferencenotify.net REJECT
 shatel.ir REJECT
 chirostop.com REJECT
 herbalcurls.com REJECT
+apionline.biz REJECT
+ad-mind.biz REJECT
+mediacommerce.com.co REJECT
+sexysinglehomepages.com REJECT
+desiredhookups.eu REJECT
 
 ### IP Loggers
 
