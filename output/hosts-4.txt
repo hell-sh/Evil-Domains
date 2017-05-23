@@ -182,6 +182,13 @@
 0.0.0.0 mediacommerce.com.co
 0.0.0.0 sexysinglehomepages.com
 0.0.0.0 desiredhookups.eu
+0.0.0.0 netmirage.ga
+0.0.0.0 highbrow.ga
+0.0.0.0 tdm-applications.tk
+0.0.0.0 topdrawmailing.ml
+0.0.0.0 locatornet.ga
+0.0.0.0 newsletter310.ru
+0.0.0.0 hikemytraffic.biz
 
 ### IP Loggers
 

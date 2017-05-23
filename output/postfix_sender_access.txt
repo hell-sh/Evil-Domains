@@ -177,6 +177,13 @@ ad-mind.biz REJECT
 mediacommerce.com.co REJECT
 sexysinglehomepages.com REJECT
 desiredhookups.eu REJECT
+netmirage.ga REJECT
+highbrow.ga REJECT
+tdm-applications.tk REJECT
+topdrawmailing.ml REJECT
+locatornet.ga REJECT
+newsletter310.ru REJECT
+hikemytraffic.biz REJECT
 
 ### IP Loggers
 
