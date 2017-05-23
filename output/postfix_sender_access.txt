@@ -184,6 +184,10 @@ topdrawmailing.ml REJECT
 locatornet.ga REJECT
 newsletter310.ru REJECT
 hikemytraffic.biz REJECT
+rightplaceapp.info REJECT
+wedesignyourbrands.co.uk REJECT
+itvillage.co.in REJECT
+godaddydesigns.com REJECT
 
 ### IP Loggers
 

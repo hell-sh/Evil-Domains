@@ -189,6 +189,10 @@
 0.0.0.0 locatornet.ga
 0.0.0.0 newsletter310.ru
 0.0.0.0 hikemytraffic.biz
+0.0.0.0 rightplaceapp.info
+0.0.0.0 wedesignyourbrands.co.uk
+0.0.0.0 itvillage.co.in
+0.0.0.0 godaddydesigns.com
 
 ### IP Loggers
 
