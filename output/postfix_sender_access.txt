@@ -193,6 +193,18 @@ ntwaterfilters.com REJECT
 boryapi.com.tr REJECT
 appmakerin.com REJECT
 personal-mail.ga REJECT
+imining.net REJECT
+pskregion3.org REJECT
+logo-tactics.ga REJECT
+24printlaneonline.com REJECT
+bestwebdesignsonline.co.uk REJECT
+zomip.com REJECT
+megawit.us REJECT
+dmonk.co.in REJECT
+crazycorner.co.uk REJECT
+numeral.co.uk REJECT
+veer.tv REJECT
+coreitsolutions.co.uk REJECT
 
 ### IP Loggers
 

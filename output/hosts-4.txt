@@ -198,6 +198,18 @@
 0.0.0.0 boryapi.com.tr
 0.0.0.0 appmakerin.com
 0.0.0.0 personal-mail.ga
+0.0.0.0 imining.net
+0.0.0.0 pskregion3.org
+0.0.0.0 logo-tactics.ga
+0.0.0.0 24printlaneonline.com
+0.0.0.0 bestwebdesignsonline.co.uk
+0.0.0.0 zomip.com
+0.0.0.0 megawit.us
+0.0.0.0 dmonk.co.in
+0.0.0.0 crazycorner.co.uk
+0.0.0.0 numeral.co.uk
+0.0.0.0 veer.tv
+0.0.0.0 coreitsolutions.co.uk
 
 ### IP Loggers
 
