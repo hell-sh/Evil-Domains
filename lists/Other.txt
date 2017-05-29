@@ -1,5 +1,6 @@
 # Scams
 promo-psc.de
+freepresents.de
 exchange-paysafecard.org
 # Adware, Spyware, etc. Spreaders
 chip.de

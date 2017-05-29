@@ -205,6 +205,9 @@ crazycorner.co.uk REJECT
 numeral.co.uk REJECT
 veer.tv REJECT
 coreitsolutions.co.uk REJECT
+phskrems.ac.at REJECT
+exdesign.com.br REJECT
+creatorsuitepro.com REJECT
 
 ### IP Loggers
 
@@ -294,6 +297,7 @@ www.fuglekos.com REJECT
 
 # Scams
 promo-psc.de REJECT
+freepresents.de REJECT
 exchange-paysafecard.org REJECT
 # Adware, Spyware, etc. Spreaders
 chip.de REJECT

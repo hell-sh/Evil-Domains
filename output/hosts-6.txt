@@ -210,6 +210,9 @@
 :: numeral.co.uk
 :: veer.tv
 :: coreitsolutions.co.uk
+:: phskrems.ac.at
+:: exdesign.com.br
+:: creatorsuitepro.com
 
 ### IP Loggers
 
@@ -299,6 +302,7 @@
 
 # Scams
 :: promo-psc.de
+:: freepresents.de
 :: exchange-paysafecard.org
 # Adware, Spyware, etc. Spreaders
 :: chip.de

@@ -210,6 +210,9 @@
 0.0.0.0 numeral.co.uk
 0.0.0.0 veer.tv
 0.0.0.0 coreitsolutions.co.uk
+0.0.0.0 phskrems.ac.at
+0.0.0.0 exdesign.com.br
+0.0.0.0 creatorsuitepro.com
 
 ### IP Loggers
 
@@ -299,6 +302,7 @@
 
 # Scams
 0.0.0.0 promo-psc.de
+0.0.0.0 freepresents.de
 0.0.0.0 exchange-paysafecard.org
 # Adware, Spyware, etc. Spreaders
 0.0.0.0 chip.de
