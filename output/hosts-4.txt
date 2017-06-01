@@ -213,6 +213,21 @@
 0.0.0.0 phskrems.ac.at
 0.0.0.0 exdesign.com.br
 0.0.0.0 creatorsuitepro.com
+0.0.0.0 tekzee.com
+0.0.0.0 debbin.com
+0.0.0.0 mails.debbin.com
+0.0.0.0 owmadvisors.com
+0.0.0.0 en.owmadvisors.com
+0.0.0.0 bellcore.host
+0.0.0.0 alphacdc.host
+0.0.0.0 logotacticz.ml
+0.0.0.0 offshoreit.online
+0.0.0.0 ranksindia.in
+0.0.0.0 quizz-deal.com
+0.0.0.0 your.quizz-deal.com
+0.0.0.0 freeiphone7claim.net
+0.0.0.0 onlinecustomlogos.com
+0.0.0.0 em.onlinecustomlogos.com
 
 ### IP Loggers
 

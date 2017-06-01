@@ -208,6 +208,21 @@ coreitsolutions.co.uk REJECT
 phskrems.ac.at REJECT
 exdesign.com.br REJECT
 creatorsuitepro.com REJECT
+tekzee.com REJECT
+debbin.com REJECT
+mails.debbin.com REJECT
+owmadvisors.com REJECT
+en.owmadvisors.com REJECT
+bellcore.host REJECT
+alphacdc.host REJECT
+logotacticz.ml REJECT
+offshoreit.online REJECT
+ranksindia.in REJECT
+quizz-deal.com REJECT
+your.quizz-deal.com REJECT
+freeiphone7claim.net REJECT
+onlinecustomlogos.com REJECT
+em.onlinecustomlogos.com REJECT
 
 ### IP Loggers
 
