@@ -223,6 +223,13 @@ your.quizz-deal.com REJECT
 freeiphone7claim.net REJECT
 onlinecustomlogos.com REJECT
 em.onlinecustomlogos.com REJECT
+superemedesigns.com REJECT
+quartzy.com REJECT
+bestdesignslab.com REJECT
+affordableappsonline.com REJECT
+em.affordableappsonline.com REJECT
+customlogocoupon.com REJECT
+designtrojans.org REJECT
 
 ### IP Loggers
 
@@ -312,9 +319,15 @@ www.fuglekos.com REJECT
 
 # Scams
 promo-psc.de REJECT
+www.promo-psc.de REJECT
 freepresents.de REJECT
+www.freepresents.de REJECT
 exchange-paysafecard.org REJECT
-# Adware, Spyware, etc. Spreaders
+www.exchange-paysafecard.org REJECT
+# Fake Sites
+katcr.to REJECT
+www.katcr.to REJECT
+# Adware/Spyware Spreaders
 chip.de REJECT
 www.chip.de REJECT
 
@@ -340,6 +353,8 @@ agor.io REJECT
 www.agor.io REJECT
 akk.li REJECT
 www.akk.li REJECT
+herobrine.com REJECT
+www.herobrine.com REJECT
 soldaten.cc REJECT
 www.soldaten.cc REJECT
 spankwire.com REJECT

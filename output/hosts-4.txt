@@ -228,6 +228,13 @@
 0.0.0.0 freeiphone7claim.net
 0.0.0.0 onlinecustomlogos.com
 0.0.0.0 em.onlinecustomlogos.com
+0.0.0.0 superemedesigns.com
+0.0.0.0 quartzy.com
+0.0.0.0 bestdesignslab.com
+0.0.0.0 affordableappsonline.com
+0.0.0.0 em.affordableappsonline.com
+0.0.0.0 customlogocoupon.com
+0.0.0.0 designtrojans.org
 
 ### IP Loggers
 
@@ -317,9 +324,15 @@
 
 # Scams
 0.0.0.0 promo-psc.de
+0.0.0.0 www.promo-psc.de
 0.0.0.0 freepresents.de
+0.0.0.0 www.freepresents.de
 0.0.0.0 exchange-paysafecard.org
-# Adware, Spyware, etc. Spreaders
+0.0.0.0 www.exchange-paysafecard.org
+# Fake Sites
+0.0.0.0 katcr.to
+0.0.0.0 www.katcr.to
+# Adware/Spyware Spreaders
 0.0.0.0 chip.de
 0.0.0.0 www.chip.de
 
@@ -345,6 +358,8 @@
 0.0.0.0 www.agor.io
 0.0.0.0 akk.li
 0.0.0.0 www.akk.li
+0.0.0.0 herobrine.com
+0.0.0.0 www.herobrine.com
 0.0.0.0 soldaten.cc
 0.0.0.0 www.soldaten.cc
 0.0.0.0 spankwire.com

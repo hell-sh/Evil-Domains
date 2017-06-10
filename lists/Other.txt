@@ -1,7 +1,13 @@
 # Scams
 promo-psc.de
+www.promo-psc.de
 freepresents.de
+www.freepresents.de
 exchange-paysafecard.org
-# Adware, Spyware, etc. Spreaders
+www.exchange-paysafecard.org
+# Fake Sites
+katcr.to
+www.katcr.to
+# Adware/Spyware Spreaders
 chip.de
 www.chip.de

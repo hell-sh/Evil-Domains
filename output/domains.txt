@@ -221,6 +221,13 @@ your.quizz-deal.com
 freeiphone7claim.net
 onlinecustomlogos.com
 em.onlinecustomlogos.com
+superemedesigns.com
+quartzy.com
+bestdesignslab.com
+affordableappsonline.com
+em.affordableappsonline.com
+customlogocoupon.com
+designtrojans.org
 
 ### IP Loggers
 
@@ -310,9 +317,15 @@ www.fuglekos.com
 
 # Scams
 promo-psc.de
+www.promo-psc.de
 freepresents.de
+www.freepresents.de
 exchange-paysafecard.org
-# Adware, Spyware, etc. Spreaders
+www.exchange-paysafecard.org
+# Fake Sites
+katcr.to
+www.katcr.to
+# Adware/Spyware Spreaders
 chip.de
 www.chip.de
 
@@ -338,6 +351,8 @@ agor.io
 www.agor.io
 akk.li
 www.akk.li
+herobrine.com
+www.herobrine.com
 soldaten.cc
 www.soldaten.cc
 spankwire.com
