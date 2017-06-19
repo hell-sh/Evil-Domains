@@ -36,6 +36,8 @@ hhourtrk2.com
 www.hhourtrk2.com
 binaryspiraltab.com
 www.binaryspiraltab.com
+fearer.info
+www.fearer.info
 
 ### Email Spammers
 
@@ -228,6 +230,24 @@ affordableappsonline.com
 em.affordableappsonline.com
 customlogocoupon.com
 designtrojans.org
+bestvideolabs.com
+vogenesis.org
+couchtuner.ch
+logoviz.net
+em.logoviz.net
+jazkids.co.uk
+logoindigohome.com
+nmhhc.org
+logopeer.com
+bestwebcreators.com
+em.bestwebcreators.com
+videoanimatorsonline.com
+easylogosonline.com
+em.easylogosonline.com
+crushmeetup.eu
+otenet.gr
+flirtdates.eu
+passionmatches.eu
 
 ### IP Loggers
 
@@ -328,6 +348,15 @@ www.katcr.to
 # Adware/Spyware Spreaders
 chip.de
 www.chip.de
+# Minecraft Snooping Server - Client and Server send statistics about themselves every 15 minutes.
+snoop.minecraft.net
+
+### Phishing
+
+kunden.paypal.de-vorgangsnummer-aagxt55d.top
+www.kunden.paypal.de-vorgangsnummer-aagxt55d.top
+amazonsicherheitsservice.com
+www.amazonsicherheitsservice.com
 
 ### Possible Phishing
 

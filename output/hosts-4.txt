@@ -43,6 +43,8 @@
 0.0.0.0 www.hhourtrk2.com
 0.0.0.0 binaryspiraltab.com
 0.0.0.0 www.binaryspiraltab.com
+0.0.0.0 fearer.info
+0.0.0.0 www.fearer.info
 
 ### Email Spammers
 
@@ -235,6 +237,24 @@
 0.0.0.0 em.affordableappsonline.com
 0.0.0.0 customlogocoupon.com
 0.0.0.0 designtrojans.org
+0.0.0.0 bestvideolabs.com
+0.0.0.0 vogenesis.org
+0.0.0.0 couchtuner.ch
+0.0.0.0 logoviz.net
+0.0.0.0 em.logoviz.net
+0.0.0.0 jazkids.co.uk
+0.0.0.0 logoindigohome.com
+0.0.0.0 nmhhc.org
+0.0.0.0 logopeer.com
+0.0.0.0 bestwebcreators.com
+0.0.0.0 em.bestwebcreators.com
+0.0.0.0 videoanimatorsonline.com
+0.0.0.0 easylogosonline.com
+0.0.0.0 em.easylogosonline.com
+0.0.0.0 crushmeetup.eu
+0.0.0.0 otenet.gr
+0.0.0.0 flirtdates.eu
+0.0.0.0 passionmatches.eu
 
 ### IP Loggers
 
@@ -335,6 +355,15 @@
 # Adware/Spyware Spreaders
 0.0.0.0 chip.de
 0.0.0.0 www.chip.de
+# Minecraft Snooping Server - Client and Server send statistics about themselves every 15 minutes.
+0.0.0.0 snoop.minecraft.net
+
+### Phishing
+
+0.0.0.0 kunden.paypal.de-vorgangsnummer-aagxt55d.top
+0.0.0.0 www.kunden.paypal.de-vorgangsnummer-aagxt55d.top
+0.0.0.0 amazonsicherheitsservice.com
+0.0.0.0 www.amazonsicherheitsservice.com
 
 ### Possible Phishing
 

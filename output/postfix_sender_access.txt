@@ -38,6 +38,8 @@ hhourtrk2.com REJECT
 www.hhourtrk2.com REJECT
 binaryspiraltab.com REJECT
 www.binaryspiraltab.com REJECT
+fearer.info REJECT
+www.fearer.info REJECT
 
 ### Email Spammers
 
@@ -230,6 +232,24 @@ affordableappsonline.com REJECT
 em.affordableappsonline.com REJECT
 customlogocoupon.com REJECT
 designtrojans.org REJECT
+bestvideolabs.com REJECT
+vogenesis.org REJECT
+couchtuner.ch REJECT
+logoviz.net REJECT
+em.logoviz.net REJECT
+jazkids.co.uk REJECT
+logoindigohome.com REJECT
+nmhhc.org REJECT
+logopeer.com REJECT
+bestwebcreators.com REJECT
+em.bestwebcreators.com REJECT
+videoanimatorsonline.com REJECT
+easylogosonline.com REJECT
+em.easylogosonline.com REJECT
+crushmeetup.eu REJECT
+otenet.gr REJECT
+flirtdates.eu REJECT
+passionmatches.eu REJECT
 
 ### IP Loggers
 
@@ -330,6 +350,15 @@ www.katcr.to REJECT
 # Adware/Spyware Spreaders
 chip.de REJECT
 www.chip.de REJECT
+# Minecraft Snooping Server - Client and Server send statistics about themselves every 15 minutes.
+snoop.minecraft.net REJECT
+
+### Phishing
+
+kunden.paypal.de-vorgangsnummer-aagxt55d.top REJECT
+www.kunden.paypal.de-vorgangsnummer-aagxt55d.top REJECT
+amazonsicherheitsservice.com REJECT
+www.amazonsicherheitsservice.com REJECT
 
 ### Possible Phishing
 
