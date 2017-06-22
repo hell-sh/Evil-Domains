@@ -250,6 +250,12 @@ crushmeetup.eu REJECT
 otenet.gr REJECT
 flirtdates.eu REJECT
 passionmatches.eu REJECT
+bestdesignersonline.com REJECT
+app.bestdesignersonline.com REJECT
+customlogodesignersonline.com REJECT
+bestvideoanimators.com REJECT
+em.bestvideoanimators.com REJECT
+uniquelogosonline.com REJECT
 
 ### IP Loggers
 

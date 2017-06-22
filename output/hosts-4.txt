@@ -255,6 +255,12 @@
 0.0.0.0 otenet.gr
 0.0.0.0 flirtdates.eu
 0.0.0.0 passionmatches.eu
+0.0.0.0 bestdesignersonline.com
+0.0.0.0 app.bestdesignersonline.com
+0.0.0.0 customlogodesignersonline.com
+0.0.0.0 bestvideoanimators.com
+0.0.0.0 em.bestvideoanimators.com
+0.0.0.0 uniquelogosonline.com
 
 ### IP Loggers
 
