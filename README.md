@@ -17,9 +17,3 @@ Basically another hosts file project.
 
 - [Postfix Sender Access File](https://github.com/timmyrs/Evil-Domains/blob/master/output/postfix_sender_access.txt)
   - [Raw](https://raw.githubusercontent.com/timmyrs/Evil-Domains/master/output/postfix_sender_access.txt)
-
-## "Email Spammers" Note
-
-My ethic for marking a _Newsletter_ as "Spam" is:
-
-If you fail to send a verification email, you will fail to send a newsletter email.
