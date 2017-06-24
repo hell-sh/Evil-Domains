@@ -46,7 +46,7 @@ www.fearer.info REJECT
 mm750.1-finalist.de REJECT
 mm750.1a-gewinner.de REJECT
 mm750.final-gewinn.com REJECT
-samss7.1a-gewinner.de REJECT
+samss7.1-finalist.de REJECT
 samss7.1a-gewinner.de REJECT
 samss7.final-gewinn.com REJECT
 

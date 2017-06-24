@@ -51,7 +51,7 @@
 0.0.0.0 mm750.1-finalist.de
 0.0.0.0 mm750.1a-gewinner.de
 0.0.0.0 mm750.final-gewinn.com
-0.0.0.0 samss7.1a-gewinner.de
+0.0.0.0 samss7.1-finalist.de
 0.0.0.0 samss7.1a-gewinner.de
 0.0.0.0 samss7.final-gewinn.com
 
