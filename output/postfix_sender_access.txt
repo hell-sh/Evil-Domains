@@ -40,6 +40,29 @@ binaryspiraltab.com REJECT
 www.binaryspiraltab.com REJECT
 fearer.info REJECT
 www.fearer.info REJECT
+namesakeoscilloscopemarquis.com REJECT
+www.namesakeoscilloscopemarquis.com REJECT
+data.namesakeoscilloscopemarquis.com REJECT
+hilltopads.net REJECT
+www.hilltopads.net REJECT
+gotositenow.com REJECT
+www.gotositenow.com REJECT
+zononi.com REJECT
+www.zononi.com REJECT
+dailyblogdose.com REJECT
+www.dailyblogdose.com REJECT
+google.de.smtp-host.vx874jhfnv74n3w0274gfls83t2indkfd93z3jnsd083z5bfls83.dailyblogdose.com REJECT
+fbmtrk-0911.com REJECT
+www.fbmtrk-0911.com REJECT
+c.fbmtrk-0911.com REJECT
+redirectvoluum.com REJECT
+www.redirectvoluum.com REJECT
+hrpp2.redirectvoluum.com REJECT
+go2cloud.org REJECT
+www.go2cloud.org REJECT
+bigbangads.go2cloud.org REJECT
+ausgewaehltergewinner.de REJECT
+www.ausgewaehltergewinner.de REJECT
 
 # CEOO Marketing
 
@@ -267,6 +290,7 @@ em.bestvideoanimators.com REJECT
 uniquelogosonline.com REJECT
 l0tt0crusher.com REJECT
 securebanks.trade REJECT
+credjurd.com.br REJECT
 
 ### IP Loggers
 

@@ -45,6 +45,29 @@
 0.0.0.0 www.binaryspiraltab.com
 0.0.0.0 fearer.info
 0.0.0.0 www.fearer.info
+0.0.0.0 namesakeoscilloscopemarquis.com
+0.0.0.0 www.namesakeoscilloscopemarquis.com
+0.0.0.0 data.namesakeoscilloscopemarquis.com
+0.0.0.0 hilltopads.net
+0.0.0.0 www.hilltopads.net
+0.0.0.0 gotositenow.com
+0.0.0.0 www.gotositenow.com
+0.0.0.0 zononi.com
+0.0.0.0 www.zononi.com
+0.0.0.0 dailyblogdose.com
+0.0.0.0 www.dailyblogdose.com
+0.0.0.0 google.de.smtp-host.vx874jhfnv74n3w0274gfls83t2indkfd93z3jnsd083z5bfls83.dailyblogdose.com
+0.0.0.0 fbmtrk-0911.com
+0.0.0.0 www.fbmtrk-0911.com
+0.0.0.0 c.fbmtrk-0911.com
+0.0.0.0 redirectvoluum.com
+0.0.0.0 www.redirectvoluum.com
+0.0.0.0 hrpp2.redirectvoluum.com
+0.0.0.0 go2cloud.org
+0.0.0.0 www.go2cloud.org
+0.0.0.0 bigbangads.go2cloud.org
+0.0.0.0 ausgewaehltergewinner.de
+0.0.0.0 www.ausgewaehltergewinner.de
 
 # CEOO Marketing
 
@@ -272,6 +295,7 @@
 0.0.0.0 uniquelogosonline.com
 0.0.0.0 l0tt0crusher.com
 0.0.0.0 securebanks.trade
+0.0.0.0 credjurd.com.br
 
 ### IP Loggers
 
