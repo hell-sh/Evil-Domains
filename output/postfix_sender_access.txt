@@ -306,6 +306,45 @@ fortgarryhotel.com REJECT
 atek-surveys.com REJECT
 182-airtel.com REJECT
 75.182-airtel.com REJECT
+newdgise.co.ua REJECT
+nicemaner.eu REJECT
+al-jarida.com REJECT
+fredericeno.eu REJECT
+hostepro.co.ua REJECT
+rockintuit.com REJECT
+jason-omara.com REJECT
+oasiscarnival.co.uk REJECT
+screaming.net REJECT
+arynjode.screaming.net REJECT
+thisishook.com REJECT
+leoneto.com REJECT
+8m.com REJECT
+mahalqngasawa.8m.com REJECT
+ostafichuk.com REJECT
+bubble-tubs.co.uk REJECT
+stevensa.worldonline.co.uk REJECT
+myfreelawyer.co.uk REJECT
+minsane.com.br REJECT
+malinkoff.eu REJECT
+win-love.biz.ua REJECT
+fisonbrookesdevelopments.co.uk REJECT
+patrickmidson.worldonline.co.uk REJECT
+crownwork.co.uk REJECT
+cliftongroupuk.com REJECT
+xlr8marketing.co.uk REJECT
+orange.fr REJECT
+ndcogroup.com REJECT
+baltisser.com REJECT
+glonass33.ru REJECT
+cabanasdelapirca.com.ar REJECT
+hostepro.co.ua REJECT
+willsamaren.co.ua REJECT
+
+# Globalnet.co.uk
+
+globalnet.co.uk REJECT
+ace.globalnet.co.uk REJECT
+kariba.globalnet.co.uk REJECT
 
 ### IP Loggers
 

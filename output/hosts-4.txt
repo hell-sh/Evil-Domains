@@ -311,6 +311,45 @@
 0.0.0.0 atek-surveys.com
 0.0.0.0 182-airtel.com
 0.0.0.0 75.182-airtel.com
+0.0.0.0 newdgise.co.ua
+0.0.0.0 nicemaner.eu
+0.0.0.0 al-jarida.com
+0.0.0.0 fredericeno.eu
+0.0.0.0 hostepro.co.ua
+0.0.0.0 rockintuit.com
+0.0.0.0 jason-omara.com
+0.0.0.0 oasiscarnival.co.uk
+0.0.0.0 screaming.net
+0.0.0.0 arynjode.screaming.net
+0.0.0.0 thisishook.com
+0.0.0.0 leoneto.com
+0.0.0.0 8m.com
+0.0.0.0 mahalqngasawa.8m.com
+0.0.0.0 ostafichuk.com
+0.0.0.0 bubble-tubs.co.uk
+0.0.0.0 stevensa.worldonline.co.uk
+0.0.0.0 myfreelawyer.co.uk
+0.0.0.0 minsane.com.br
+0.0.0.0 malinkoff.eu
+0.0.0.0 win-love.biz.ua
+0.0.0.0 fisonbrookesdevelopments.co.uk
+0.0.0.0 patrickmidson.worldonline.co.uk
+0.0.0.0 crownwork.co.uk
+0.0.0.0 cliftongroupuk.com
+0.0.0.0 xlr8marketing.co.uk
+0.0.0.0 orange.fr
+0.0.0.0 ndcogroup.com
+0.0.0.0 baltisser.com
+0.0.0.0 glonass33.ru
+0.0.0.0 cabanasdelapirca.com.ar
+0.0.0.0 hostepro.co.ua
+0.0.0.0 willsamaren.co.ua
+
+# Globalnet.co.uk
+
+0.0.0.0 globalnet.co.uk
+0.0.0.0 ace.globalnet.co.uk
+0.0.0.0 kariba.globalnet.co.uk
 
 ### IP Loggers
 
