@@ -63,6 +63,11 @@ www.go2cloud.org REJECT
 bigbangads.go2cloud.org REJECT
 ausgewaehltergewinner.de REJECT
 www.ausgewaehltergewinner.de REJECT
+playerokvideo.ru REJECT
+www.playerokvideo.ru REJECT
+instadating.club REJECT
+www.instadating.club REJECT
+ddvka.instadating.club REJECT
 
 # CEOO Marketing
 
@@ -291,6 +296,16 @@ uniquelogosonline.com REJECT
 l0tt0crusher.com REJECT
 securebanks.trade REJECT
 credjurd.com.br REJECT
+rambler.ru REJECT
+sirius-analytical.co.uk REJECT
+liberiamediacenter.org REJECT
+kopusgroup.com REJECT
+raasnio.com REJECT
+cablevision.net.mx REJECT
+fortgarryhotel.com REJECT
+atek-surveys.com REJECT
+182-airtel.com REJECT
+75.182-airtel.com REJECT
 
 ### IP Loggers
 

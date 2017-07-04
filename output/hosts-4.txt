@@ -68,6 +68,11 @@
 0.0.0.0 bigbangads.go2cloud.org
 0.0.0.0 ausgewaehltergewinner.de
 0.0.0.0 www.ausgewaehltergewinner.de
+0.0.0.0 playerokvideo.ru
+0.0.0.0 www.playerokvideo.ru
+0.0.0.0 instadating.club
+0.0.0.0 www.instadating.club
+0.0.0.0 ddvka.instadating.club
 
 # CEOO Marketing
 
@@ -296,6 +301,16 @@
 0.0.0.0 l0tt0crusher.com
 0.0.0.0 securebanks.trade
 0.0.0.0 credjurd.com.br
+0.0.0.0 rambler.ru
+0.0.0.0 sirius-analytical.co.uk
+0.0.0.0 liberiamediacenter.org
+0.0.0.0 kopusgroup.com
+0.0.0.0 raasnio.com
+0.0.0.0 cablevision.net.mx
+0.0.0.0 fortgarryhotel.com
+0.0.0.0 atek-surveys.com
+0.0.0.0 182-airtel.com
+0.0.0.0 75.182-airtel.com
 
 ### IP Loggers
 
