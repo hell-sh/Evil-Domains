@@ -337,14 +337,19 @@ ndcogroup.com REJECT
 baltisser.com REJECT
 glonass33.ru REJECT
 cabanasdelapirca.com.ar REJECT
-hostepro.co.ua REJECT
 willsamaren.co.ua REJECT
+premiumdesignsonline.com REJECT
+logodaddycoupon.com REJECT
 
 # Globalnet.co.uk
 
 globalnet.co.uk REJECT
 ace.globalnet.co.uk REJECT
 kariba.globalnet.co.uk REJECT
+
+# Newsletters Without Confirmation
+
+politico.com REJECT
 
 ### IP Loggers
 

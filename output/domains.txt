@@ -335,14 +335,19 @@ ndcogroup.com
 baltisser.com
 glonass33.ru
 cabanasdelapirca.com.ar
-hostepro.co.ua
 willsamaren.co.ua
+premiumdesignsonline.com
+logodaddycoupon.com
 
 # Globalnet.co.uk
 
 globalnet.co.uk
 ace.globalnet.co.uk
 kariba.globalnet.co.uk
+
+# Newsletters Without Confirmation
+
+politico.com
 
 ### IP Loggers
 

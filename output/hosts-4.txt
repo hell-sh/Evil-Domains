@@ -342,14 +342,19 @@
 0.0.0.0 baltisser.com
 0.0.0.0 glonass33.ru
 0.0.0.0 cabanasdelapirca.com.ar
-0.0.0.0 hostepro.co.ua
 0.0.0.0 willsamaren.co.ua
+0.0.0.0 premiumdesignsonline.com
+0.0.0.0 logodaddycoupon.com
 
 # Globalnet.co.uk
 
 0.0.0.0 globalnet.co.uk
 0.0.0.0 ace.globalnet.co.uk
 0.0.0.0 kariba.globalnet.co.uk
+
+# Newsletters Without Confirmation
+
+0.0.0.0 politico.com
 
 ### IP Loggers
 
