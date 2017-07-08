@@ -337,6 +337,7 @@ ndcogroup.com REJECT
 baltisser.com REJECT
 glonass33.ru REJECT
 cabanasdelapirca.com.ar REJECT
+hostepro.co.ua REJECT
 willsamaren.co.ua REJECT
 premiumdesignsonline.com REJECT
 logodaddycoupon.com REJECT

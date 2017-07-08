@@ -342,6 +342,7 @@
 0.0.0.0 baltisser.com
 0.0.0.0 glonass33.ru
 0.0.0.0 cabanasdelapirca.com.ar
+0.0.0.0 hostepro.co.ua
 0.0.0.0 willsamaren.co.ua
 0.0.0.0 premiumdesignsonline.com
 0.0.0.0 logodaddycoupon.com
