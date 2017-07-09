@@ -73,8 +73,6 @@
 0.0.0.0 instadating.club
 0.0.0.0 www.instadating.club
 0.0.0.0 ddvka.instadating.club
-0.0.0.0 pcmclks.com
-0.0.0.0 www.pcmclks.com
 0.0.0.0 b1fb813dc806b7d.com
 0.0.0.0 flirt-and-sex.com
 0.0.0.0 www.flirt-and-sex.com
@@ -121,14 +119,13 @@
 0.0.0.0 lp.stargames.com
 0.0.0.0 one1gameplay.com
 0.0.0.0 www.one1gameplay.com
-0.0.0.0 sunnyplayer.com
-0.0.0.0 www.sunnyplayer.com
 0.0.0.0 youlucky2014.com
 0.0.0.0 www.youlucky2014.com
-0.0.0.0 gotositenow.com
-0.0.0.0 www.gotositenow.com
 0.0.0.0 shopcombined.co
 0.0.0.0 www.shopcombined.co
+0.0.0.0 terikona.top
+0.0.0.0 www.terikona.top
+0.0.0.0 a.terikona.top
 
 # Mindspark / myway
 

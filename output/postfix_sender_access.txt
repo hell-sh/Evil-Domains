@@ -68,8 +68,6 @@ www.playerokvideo.ru REJECT
 instadating.club REJECT
 www.instadating.club REJECT
 ddvka.instadating.club REJECT
-pcmclks.com REJECT
-www.pcmclks.com REJECT
 b1fb813dc806b7d.com REJECT
 flirt-and-sex.com REJECT
 www.flirt-and-sex.com REJECT
@@ -116,14 +114,13 @@ www.stargames.com REJECT
 lp.stargames.com REJECT
 one1gameplay.com REJECT
 www.one1gameplay.com REJECT
-sunnyplayer.com REJECT
-www.sunnyplayer.com REJECT
 youlucky2014.com REJECT
 www.youlucky2014.com REJECT
-gotositenow.com REJECT
-www.gotositenow.com REJECT
 shopcombined.co REJECT
 www.shopcombined.co REJECT
+terikona.top REJECT
+www.terikona.top REJECT
+a.terikona.top REJECT
 
 # Mindspark / myway
 
