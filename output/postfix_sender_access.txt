@@ -68,6 +68,77 @@ www.playerokvideo.ru REJECT
 instadating.club REJECT
 www.instadating.club REJECT
 ddvka.instadating.club REJECT
+pcmclks.com REJECT
+www.pcmclks.com REJECT
+b1fb813dc806b7d.com REJECT
+flirt-and-sex.com REJECT
+www.flirt-and-sex.com REJECT
+media-rocks.com REJECT
+www.media-rocks.com REJECT
+sin.media-rocks.com REJECT
+silverscreen.cc REJECT
+www.silverscreen.cc REJECT
+register.silverscreen.cc REJECT
+anytrx.com REJECT
+www.anytrx.com REJECT
+c.anytrx.com REJECT
+getvideoconvert.com REJECT
+www.getvideoconvert.com REJECT
+free.getvideoconvert.com REJECT
+gifables.com REJECT
+www.gifables.com REJECT
+free.gifables.com REJECT
+apps4push.com REJECT
+www.apps4push.com REJECT
+aniop25.com REJECT
+junbi-tracker.com REJECT
+www.junbi-tracker.com REJECT
+t1.junbi-tracker.com REJECT
+t2.junbi-tracker.com REJECT
+t3.junbi-tracker.com REJECT
+cpm10.com REJECT
+www.cpm10.com REJECT
+venturead.com REJECT
+www.venturead.com REJECT
+jolic2.com REJECT
+www.jolic2.com REJECT
+translationbuddy.com REJECT
+www.translationbuddy.com REJECT
+severbak.com REJECT
+thewhizmarketing.com REJECT
+www.thewhizmarketing.com REJECT
+seen-on-screen.thewhizmarketing.com REJECT
+blpmovies.com REJECT
+www.blpmovies.com REJECT
+lp.blpmovies.com REJECT
+stargames.com REJECT
+www.stargames.com REJECT
+lp.stargames.com REJECT
+one1gameplay.com REJECT
+www.one1gameplay.com REJECT
+sunnyplayer.com REJECT
+www.sunnyplayer.com REJECT
+youlucky2014.com REJECT
+www.youlucky2014.com REJECT
+gotositenow.com REJECT
+www.gotositenow.com REJECT
+shopcombined.co REJECT
+www.shopcombined.co REJECT
+
+# Mindspark / myway
+
+inboxace.com REJECT
+www.inboxace.com REJECT
+free.inboxace.com REJECT
+download.inboxace.com REJECT
+getformsonline.com REJECT
+www.getformsonline.com REJECT
+free.getformsonline.com REJECT
+download.getformsonline.com REJECT
+webmailworld.com REJECT
+www.webmailworld.com REJECT
+free.webmailworld.com REJECT
+download.webmailworld.com REJECT
 
 # CEOO Marketing
 
@@ -350,6 +421,8 @@ kariba.globalnet.co.uk REJECT
 # Newsletters Without Confirmation
 
 politico.com REJECT
+politicoemail.com REJECT
+bounce.politicoemail.com REJECT
 
 ### IP Loggers
 

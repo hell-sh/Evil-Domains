@@ -73,6 +73,77 @@
 0.0.0.0 instadating.club
 0.0.0.0 www.instadating.club
 0.0.0.0 ddvka.instadating.club
+0.0.0.0 pcmclks.com
+0.0.0.0 www.pcmclks.com
+0.0.0.0 b1fb813dc806b7d.com
+0.0.0.0 flirt-and-sex.com
+0.0.0.0 www.flirt-and-sex.com
+0.0.0.0 media-rocks.com
+0.0.0.0 www.media-rocks.com
+0.0.0.0 sin.media-rocks.com
+0.0.0.0 silverscreen.cc
+0.0.0.0 www.silverscreen.cc
+0.0.0.0 register.silverscreen.cc
+0.0.0.0 anytrx.com
+0.0.0.0 www.anytrx.com
+0.0.0.0 c.anytrx.com
+0.0.0.0 getvideoconvert.com
+0.0.0.0 www.getvideoconvert.com
+0.0.0.0 free.getvideoconvert.com
+0.0.0.0 gifables.com
+0.0.0.0 www.gifables.com
+0.0.0.0 free.gifables.com
+0.0.0.0 apps4push.com
+0.0.0.0 www.apps4push.com
+0.0.0.0 aniop25.com
+0.0.0.0 junbi-tracker.com
+0.0.0.0 www.junbi-tracker.com
+0.0.0.0 t1.junbi-tracker.com
+0.0.0.0 t2.junbi-tracker.com
+0.0.0.0 t3.junbi-tracker.com
+0.0.0.0 cpm10.com
+0.0.0.0 www.cpm10.com
+0.0.0.0 venturead.com
+0.0.0.0 www.venturead.com
+0.0.0.0 jolic2.com
+0.0.0.0 www.jolic2.com
+0.0.0.0 translationbuddy.com
+0.0.0.0 www.translationbuddy.com
+0.0.0.0 severbak.com
+0.0.0.0 thewhizmarketing.com
+0.0.0.0 www.thewhizmarketing.com
+0.0.0.0 seen-on-screen.thewhizmarketing.com
+0.0.0.0 blpmovies.com
+0.0.0.0 www.blpmovies.com
+0.0.0.0 lp.blpmovies.com
+0.0.0.0 stargames.com
+0.0.0.0 www.stargames.com
+0.0.0.0 lp.stargames.com
+0.0.0.0 one1gameplay.com
+0.0.0.0 www.one1gameplay.com
+0.0.0.0 sunnyplayer.com
+0.0.0.0 www.sunnyplayer.com
+0.0.0.0 youlucky2014.com
+0.0.0.0 www.youlucky2014.com
+0.0.0.0 gotositenow.com
+0.0.0.0 www.gotositenow.com
+0.0.0.0 shopcombined.co
+0.0.0.0 www.shopcombined.co
+
+# Mindspark / myway
+
+0.0.0.0 inboxace.com
+0.0.0.0 www.inboxace.com
+0.0.0.0 free.inboxace.com
+0.0.0.0 download.inboxace.com
+0.0.0.0 getformsonline.com
+0.0.0.0 www.getformsonline.com
+0.0.0.0 free.getformsonline.com
+0.0.0.0 download.getformsonline.com
+0.0.0.0 webmailworld.com
+0.0.0.0 www.webmailworld.com
+0.0.0.0 free.webmailworld.com
+0.0.0.0 download.webmailworld.com
 
 # CEOO Marketing
 
@@ -355,6 +426,8 @@
 # Newsletters Without Confirmation
 
 0.0.0.0 politico.com
+0.0.0.0 politicoemail.com
+0.0.0.0 bounce.politicoemail.com
 
 ### IP Loggers
 

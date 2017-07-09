@@ -268,3 +268,5 @@ kariba.globalnet.co.uk
 # Newsletters Without Confirmation
 
 politico.com
+politicoemail.com
+bounce.politicoemail.com
