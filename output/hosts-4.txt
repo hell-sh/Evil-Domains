@@ -425,6 +425,13 @@
 0.0.0.0 politico.com
 0.0.0.0 politicoemail.com
 0.0.0.0 bounce.politicoemail.com
+0.0.0.0 greenbiz.com
+0.0.0.0 fiercepharmamanufacturing.com
+0.0.0.0 fiercepharma.com
+0.0.0.0 hrc.org
+0.0.0.0 zillertalarena.com
+0.0.0.0 fiercevaccines.com
+
 
 ### IP Loggers
 

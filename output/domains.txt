@@ -418,6 +418,13 @@ kariba.globalnet.co.uk
 politico.com
 politicoemail.com
 bounce.politicoemail.com
+greenbiz.com
+fiercepharmamanufacturing.com
+fiercepharma.com
+hrc.org
+zillertalarena.com
+fiercevaccines.com
+
 
 ### IP Loggers
 
