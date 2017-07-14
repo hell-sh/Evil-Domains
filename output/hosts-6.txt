@@ -425,12 +425,18 @@
 :: politico.com
 :: politicoemail.com
 :: bounce.politicoemail.com
-:: greenbiz.com
-:: fiercepharmamanufacturing.com
+
 :: fiercepharma.com
+:: fiercebiotech.com
+:: fiercevaccines.com
+:: fiercepharmamarketing.com
+:: fiercepharmamanufacturing.com
+
+:: greenbiz.com
 :: hrc.org
 :: zillertalarena.com
-:: fiercevaccines.com
+:: camping.anpdm.com
+:: mail.macmillan.com
 
 
 ### IP Loggers

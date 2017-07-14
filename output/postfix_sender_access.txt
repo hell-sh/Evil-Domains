@@ -420,12 +420,18 @@ kariba.globalnet.co.uk REJECT
 politico.com REJECT
 politicoemail.com REJECT
 bounce.politicoemail.com REJECT
-greenbiz.com REJECT
-fiercepharmamanufacturing.com REJECT
+
 fiercepharma.com REJECT
+fiercebiotech.com REJECT
+fiercevaccines.com REJECT
+fiercepharmamarketing.com REJECT
+fiercepharmamanufacturing.com REJECT
+
+greenbiz.com REJECT
 hrc.org REJECT
 zillertalarena.com REJECT
-fiercevaccines.com REJECT
+camping.anpdm.com REJECT
+mail.macmillan.com REJECT
 
 
 ### IP Loggers
