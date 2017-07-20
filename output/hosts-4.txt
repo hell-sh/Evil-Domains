@@ -126,6 +126,10 @@
 0.0.0.0 terikona.top
 0.0.0.0 www.terikona.top
 0.0.0.0 a.terikona.top
+0.0.0.0 reallifecam.com
+0.0.0.0 www.reallifecam.com
+0.0.0.0 sexfriendfinder.club
+0.0.0.0 www.sexfriendfinder.club
 
 # Mindspark / myway
 
@@ -413,6 +417,8 @@
 0.0.0.0 willsamaren.co.ua
 0.0.0.0 premiumdesignsonline.com
 0.0.0.0 logodaddycoupon.com
+0.0.0.0 getanimatedvideosonline.com
+0.0.0.0 em.getanimatedvideosonline.com
 
 # Globalnet.co.uk
 
@@ -547,6 +553,8 @@
 0.0.0.0 www.freepresents.de
 0.0.0.0 exchange-paysafecard.org
 0.0.0.0 www.exchange-paysafecard.org
+0.0.0.0 steamsummer.com
+0.0.0.0 www.steamsummer.com
 # Fake Sites
 0.0.0.0 katcr.to
 0.0.0.0 www.katcr.to

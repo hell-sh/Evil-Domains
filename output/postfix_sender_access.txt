@@ -121,6 +121,10 @@ www.shopcombined.co REJECT
 terikona.top REJECT
 www.terikona.top REJECT
 a.terikona.top REJECT
+reallifecam.com REJECT
+www.reallifecam.com REJECT
+sexfriendfinder.club REJECT
+www.sexfriendfinder.club REJECT
 
 # Mindspark / myway
 
@@ -408,6 +412,8 @@ cabanasdelapirca.com.ar REJECT
 willsamaren.co.ua REJECT
 premiumdesignsonline.com REJECT
 logodaddycoupon.com REJECT
+getanimatedvideosonline.com REJECT
+em.getanimatedvideosonline.com REJECT
 
 # Globalnet.co.uk
 
@@ -542,6 +548,8 @@ freepresents.de REJECT
 www.freepresents.de REJECT
 exchange-paysafecard.org REJECT
 www.exchange-paysafecard.org REJECT
+steamsummer.com REJECT
+www.steamsummer.com REJECT
 # Fake Sites
 katcr.to REJECT
 www.katcr.to REJECT

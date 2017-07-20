@@ -5,6 +5,8 @@ freepresents.de
 www.freepresents.de
 exchange-paysafecard.org
 www.exchange-paysafecard.org
+steamsummer.com
+www.steamsummer.com
 # Fake Sites
 katcr.to
 www.katcr.to
