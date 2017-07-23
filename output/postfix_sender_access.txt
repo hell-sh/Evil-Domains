@@ -414,6 +414,8 @@ premiumdesignsonline.com REJECT
 logodaddycoupon.com REJECT
 getanimatedvideosonline.com REJECT
 em.getanimatedvideosonline.com REJECT
+powderfruit.eu REJECT
+swelteringday.eu REJECT
 
 # Globalnet.co.uk
 
@@ -439,6 +441,7 @@ zillertalarena.com REJECT
 camping.anpdm.com REJECT
 mail.macmillan.com REJECT
 det.nsw.edu.au REJECT
+nachtgalerie.info REJECT
 
 
 ### IP Loggers

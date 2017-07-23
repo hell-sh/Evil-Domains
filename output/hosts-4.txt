@@ -419,6 +419,8 @@
 0.0.0.0 logodaddycoupon.com
 0.0.0.0 getanimatedvideosonline.com
 0.0.0.0 em.getanimatedvideosonline.com
+0.0.0.0 powderfruit.eu
+0.0.0.0 swelteringday.eu
 
 # Globalnet.co.uk
 
@@ -444,6 +446,7 @@
 0.0.0.0 camping.anpdm.com
 0.0.0.0 mail.macmillan.com
 0.0.0.0 det.nsw.edu.au
+0.0.0.0 nachtgalerie.info
 
 
 ### IP Loggers
