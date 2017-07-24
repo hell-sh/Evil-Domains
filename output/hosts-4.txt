@@ -447,6 +447,7 @@
 0.0.0.0 mail.macmillan.com
 0.0.0.0 det.nsw.edu.au
 0.0.0.0 nachtgalerie.info
+0.0.0.0 keyence.com.sg
 
 
 ### IP Loggers
