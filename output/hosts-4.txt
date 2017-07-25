@@ -434,13 +434,12 @@
 0.0.0.0 politicoemail.com
 0.0.0.0 bounce.politicoemail.com
 
-0.0.0.0 fiercepharma.com
-0.0.0.0 fiercebiotech.com
-0.0.0.0 fiercevaccines.com
-0.0.0.0 fiercepharmamarketing.com
-0.0.0.0 fiercepharmamanufacturing.com
+0.0.0.0 marketo.org
+0.0.0.0 sjmas01.marketo.org
+0.0.0.0 sjmas02.marketo.org
+0.0.0.0 sjmas03.marketo.org
+0.0.0.0 em-sj-77.mktomail.com
 
-0.0.0.0 greenbiz.com
 0.0.0.0 hrc.org
 0.0.0.0 zillertalarena.com
 0.0.0.0 camping.anpdm.com

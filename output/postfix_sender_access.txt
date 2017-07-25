@@ -429,13 +429,12 @@ politico.com REJECT
 politicoemail.com REJECT
 bounce.politicoemail.com REJECT
 
-fiercepharma.com REJECT
-fiercebiotech.com REJECT
-fiercevaccines.com REJECT
-fiercepharmamarketing.com REJECT
-fiercepharmamanufacturing.com REJECT
+marketo.org REJECT
+sjmas01.marketo.org REJECT
+sjmas02.marketo.org REJECT
+sjmas03.marketo.org REJECT
+em-sj-77.mktomail.com REJECT
 
-greenbiz.com REJECT
 hrc.org REJECT
 zillertalarena.com REJECT
 camping.anpdm.com REJECT
