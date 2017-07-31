@@ -414,7 +414,6 @@ premiumdesignsonline.com REJECT
 logodaddycoupon.com REJECT
 getanimatedvideosonline.com REJECT
 em.getanimatedvideosonline.com REJECT
-powderfruit.eu REJECT
 swelteringday.eu REJECT
 winalwaystrade.info REJECT
 

@@ -419,7 +419,6 @@
 0.0.0.0 logodaddycoupon.com
 0.0.0.0 getanimatedvideosonline.com
 0.0.0.0 em.getanimatedvideosonline.com
-0.0.0.0 powderfruit.eu
 0.0.0.0 swelteringday.eu
 0.0.0.0 winalwaystrade.info
 
