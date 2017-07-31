@@ -421,6 +421,7 @@
 :: em.getanimatedvideosonline.com
 :: powderfruit.eu
 :: swelteringday.eu
+:: winalwaystrade.info
 
 # Globalnet.co.uk
 
@@ -439,14 +440,24 @@
 :: sjmas02.marketo.org
 :: sjmas03.marketo.org
 :: em-sj-77.mktomail.com
+:: fiercebiotech.com
+:: fiercepharmamarketing.com
+:: fiercepharma.com
+:: greenbiz.com
 
 :: hrc.org
 :: zillertalarena.com
 :: camping.anpdm.com
 :: mail.macmillan.com
+:: nsw.edu.au
 :: det.nsw.edu.au
 :: nachtgalerie.info
 :: keyence.com.sg
+:: roompot.de
+:: e.roompot.de
+:: powderfruit.eu
+:: turing.com
+:: skoda-auto.de
 
 
 ### IP Loggers

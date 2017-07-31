@@ -416,6 +416,7 @@ getanimatedvideosonline.com REJECT
 em.getanimatedvideosonline.com REJECT
 powderfruit.eu REJECT
 swelteringday.eu REJECT
+winalwaystrade.info REJECT
 
 # Globalnet.co.uk
 
@@ -434,14 +435,24 @@ sjmas01.marketo.org REJECT
 sjmas02.marketo.org REJECT
 sjmas03.marketo.org REJECT
 em-sj-77.mktomail.com REJECT
+fiercebiotech.com REJECT
+fiercepharmamarketing.com REJECT
+fiercepharma.com REJECT
+greenbiz.com REJECT
 
 hrc.org REJECT
 zillertalarena.com REJECT
 camping.anpdm.com REJECT
 mail.macmillan.com REJECT
+nsw.edu.au REJECT
 det.nsw.edu.au REJECT
 nachtgalerie.info REJECT
 keyence.com.sg REJECT
+roompot.de REJECT
+e.roompot.de REJECT
+powderfruit.eu REJECT
+turing.com REJECT
+skoda-auto.de REJECT
 
 
 ### IP Loggers
