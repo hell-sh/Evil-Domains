@@ -416,6 +416,8 @@ getanimatedvideosonline.com REJECT
 em.getanimatedvideosonline.com REJECT
 swelteringday.eu REJECT
 winalwaystrade.info REJECT
+customvideoexperts.com REJECT
+em.customvideoexperts.com REJECT
 
 # Globalnet.co.uk
 
