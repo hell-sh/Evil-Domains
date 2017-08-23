@@ -15,3 +15,5 @@ chip.de
 www.chip.de
 # Minecraft Snooping Server - Client and Server send statistics about themselves every 15 minutes.
 snoop.minecraft.net
+# Remote Access Endpoint
+sdk.open.phone.igexin.com
