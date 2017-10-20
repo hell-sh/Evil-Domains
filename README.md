@@ -18,3 +18,8 @@ It is not recommended to only use this list as your hosts file, as it is lacking
 
 - [IPv4 Hosts File](https://github.com/timmyrs/Evil-Domains/blob/master/output/hosts-4.txt)
   - [Raw](https://raw.githubusercontent.com/timmyrs/Evil-Domains/master/output/hosts-4.txt)
+
+## Contributers
+
+- [Tim "timmyRS" Speckhals](https://timmyrs.de)
+- ["Senk Su"](https://twitter.com/senkju)
