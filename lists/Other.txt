@@ -7,6 +7,8 @@ exchange-paysafecard.org
 www.exchange-paysafecard.org
 steamsummer.com
 www.steamsummer.com
+sapnaintl.com
+www.sapnaintl.com
 # Fake Sites
 katcr.to
 www.katcr.to
