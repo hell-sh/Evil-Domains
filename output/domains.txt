@@ -162,6 +162,8 @@ www.fuglekos.com
 # Grabify
 
 grabify.link
+starbucks.bio
+shört.co
 printscr.gq
 dropboxx.ga
 dropboxx.cf
@@ -181,6 +183,11 @@ xxox.co.uk
 # SkypeGrab
 
 skypegrab.net
+sĸype.com
+en.sĸype.com
+web.sĸype.com
+www.sĸype.com
+csgopot.zone
 hackfȯrums.net
 hackfȯrums.com
 imgúr.com
@@ -247,6 +254,7 @@ blasze.tk
 ipgrab.org
 i.gyazos.com
 
+
 ### Other
 
 # Scams
@@ -258,16 +266,24 @@ exchange-paysafecard.org
 www.exchange-paysafecard.org
 steamsummer.com
 www.steamsummer.com
+sapnaintl.com
+www.sapnaintl.com
 # Fake Sites
 katcr.to
 www.katcr.to
 # Adware/Spyware Spreaders
 chip.de
 www.chip.de
-# Minecraft Snooping Server - Client and Server send statistics about themselves every 15 minutes.
-snoop.minecraft.net
+# Doxing Sites
+dox.sx
+dox.su
+dox.host
+dox.ninja
+privatsphäre.de
+privatsphäre.com
 # Remote Access Endpoint
 sdk.open.phone.igexin.com
+
 
 ### Phishing
 

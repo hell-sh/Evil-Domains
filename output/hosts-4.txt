@@ -169,6 +169,8 @@
 # Grabify
 
 0.0.0.0 grabify.link
+0.0.0.0 starbucks.bio
+0.0.0.0 shört.co
 0.0.0.0 printscr.gq
 0.0.0.0 dropboxx.ga
 0.0.0.0 dropboxx.cf
@@ -188,6 +190,11 @@
 # SkypeGrab
 
 0.0.0.0 skypegrab.net
+0.0.0.0 sĸype.com
+0.0.0.0 en.sĸype.com
+0.0.0.0 web.sĸype.com
+0.0.0.0 www.sĸype.com
+0.0.0.0 csgopot.zone
 0.0.0.0 hackfȯrums.net
 0.0.0.0 hackfȯrums.com
 0.0.0.0 imgúr.com
@@ -254,6 +261,7 @@
 0.0.0.0 ipgrab.org
 0.0.0.0 i.gyazos.com
 
+
 ### Other
 
 # Scams
@@ -265,16 +273,24 @@
 0.0.0.0 www.exchange-paysafecard.org
 0.0.0.0 steamsummer.com
 0.0.0.0 www.steamsummer.com
+0.0.0.0 sapnaintl.com
+0.0.0.0 www.sapnaintl.com
 # Fake Sites
 0.0.0.0 katcr.to
 0.0.0.0 www.katcr.to
 # Adware/Spyware Spreaders
 0.0.0.0 chip.de
 0.0.0.0 www.chip.de
-# Minecraft Snooping Server - Client and Server send statistics about themselves every 15 minutes.
-0.0.0.0 snoop.minecraft.net
+# Doxing Sites
+0.0.0.0 dox.sx
+0.0.0.0 dox.su
+0.0.0.0 dox.host
+0.0.0.0 dox.ninja
+0.0.0.0 privatsphäre.de
+0.0.0.0 privatsphäre.com
 # Remote Access Endpoint
 0.0.0.0 sdk.open.phone.igexin.com
+
 
 ### Phishing
 
