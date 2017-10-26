@@ -15,7 +15,12 @@ www.katcr.to
 # Adware/Spyware Spreaders
 chip.de
 www.chip.de
-# Minecraft Snooping Server - Client and Server send statistics about themselves every 15 minutes.
-snoop.minecraft.net
+# Doxing Sites
+dox.sx
+dox.su
+dox.host
+dox.ninja
+privatsphäre.de
+privatsphäre.com
 # Remote Access Endpoint
 sdk.open.phone.igexin.com
