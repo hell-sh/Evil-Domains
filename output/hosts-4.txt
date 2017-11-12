@@ -281,13 +281,13 @@
 # Adware/Spyware Spreaders
 0.0.0.0 chip.de
 0.0.0.0 www.chip.de
+# Used in Adware/Spyware/Malware
+0.0.0.0 www1.online
 # Doxing Sites
 0.0.0.0 dox.sx
 0.0.0.0 dox.su
 0.0.0.0 dox.host
 0.0.0.0 dox.ninja
-0.0.0.0 privatsphäre.de
-0.0.0.0 privatsphäre.com
 # Remote Access Endpoint
 0.0.0.0 sdk.open.phone.igexin.com
 
