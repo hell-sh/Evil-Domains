@@ -298,6 +298,10 @@
 0.0.0.0 www.kunden.paypal.de-vorgangsnummer-aagxt55d.top
 0.0.0.0 amazonsicherheitsservice.com
 0.0.0.0 www.amazonsicherheitsservice.com
+0.0.0.0 kundensupport-amazon-de-8me9mjnms9uat39.gdn
+0.0.0.0 www.kundensupport-amazon-de-8me9mjnms9uat39.gdn
+0.0.0.0 xn--myethewallet-bkc.com
+0.0.0.0 www.xn--myethewallet-bkc.com
 
 ### Possible Phishing
 
@@ -314,6 +318,7 @@
 0.0.0.0 optifine.co.de
 0.0.0.0 optifine.com.de
 0.0.0.0 optifine.net.de
+
 
 ### Shockers
 
