@@ -264,32 +264,27 @@
 
 ### Other
 
-# Scams
-0.0.0.0 promo-psc.de
-0.0.0.0 www.promo-psc.de
-0.0.0.0 freepresents.de
-0.0.0.0 www.freepresents.de
-0.0.0.0 exchange-paysafecard.org
-0.0.0.0 www.exchange-paysafecard.org
-0.0.0.0 steamsummer.com
-0.0.0.0 www.steamsummer.com
-0.0.0.0 sapnaintl.com
-0.0.0.0 www.sapnaintl.com
 # Fake Sites
+
 0.0.0.0 katcr.to
 0.0.0.0 www.katcr.to
+
 # Adware/Spyware Spreaders
+
 0.0.0.0 chip.de
 0.0.0.0 www.chip.de
+
 # Used in Adware/Spyware/Malware
+
 0.0.0.0 www1.online
+0.0.0.0 sdk.open.phone.igexin.com
+
 # Doxing Sites
+
 0.0.0.0 dox.sx
 0.0.0.0 dox.su
 0.0.0.0 dox.host
 0.0.0.0 dox.ninja
-# Remote Access Endpoint
-0.0.0.0 sdk.open.phone.igexin.com
 
 
 ### Phishing
@@ -318,6 +313,29 @@
 0.0.0.0 optifine.co.de
 0.0.0.0 optifine.com.de
 0.0.0.0 optifine.net.de
+
+
+### Scams
+
+0.0.0.0 promo-psc.de
+0.0.0.0 www.promo-psc.de
+0.0.0.0 freepresents.de
+0.0.0.0 www.freepresents.de
+0.0.0.0 exchange-paysafecard.org
+0.0.0.0 www.exchange-paysafecard.org
+0.0.0.0 steamsummer.com
+0.0.0.0 www.steamsummer.com
+0.0.0.0 sapnaintl.com
+0.0.0.0 www.sapnaintl.com
+
+# Tech Support Scams
+
+0.0.0.0 oydg18267d6f712fsg267sf1562ds1256fsg782gfsd1267.xyz
+0.0.0.0 0452securityserver854errordetected.xyz
+0.0.0.0 6452securityserver854errordetected.xyz
+0.0.0.0 7452securityserver854errordetected.xyz
+0.0.0.0 8452securityserver854errordetected.xyz
+0.0.0.0 9452securityserver854errordetected.xyz
 
 
 ### Shockers

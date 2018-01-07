@@ -257,32 +257,27 @@ i.gyazos.com
 
 ### Other
 
-# Scams
-promo-psc.de
-www.promo-psc.de
-freepresents.de
-www.freepresents.de
-exchange-paysafecard.org
-www.exchange-paysafecard.org
-steamsummer.com
-www.steamsummer.com
-sapnaintl.com
-www.sapnaintl.com
 # Fake Sites
+
 katcr.to
 www.katcr.to
+
 # Adware/Spyware Spreaders
+
 chip.de
 www.chip.de
+
 # Used in Adware/Spyware/Malware
+
 www1.online
+sdk.open.phone.igexin.com
+
 # Doxing Sites
+
 dox.sx
 dox.su
 dox.host
 dox.ninja
-# Remote Access Endpoint
-sdk.open.phone.igexin.com
 
 
 ### Phishing
@@ -311,6 +306,29 @@ optifine.com
 optifine.co.de
 optifine.com.de
 optifine.net.de
+
+
+### Scams
+
+promo-psc.de
+www.promo-psc.de
+freepresents.de
+www.freepresents.de
+exchange-paysafecard.org
+www.exchange-paysafecard.org
+steamsummer.com
+www.steamsummer.com
+sapnaintl.com
+www.sapnaintl.com
+
+# Tech Support Scams
+
+oydg18267d6f712fsg267sf1562ds1256fsg782gfsd1267.xyz
+0452securityserver854errordetected.xyz
+6452securityserver854errordetected.xyz
+7452securityserver854errordetected.xyz
+8452securityserver854errordetected.xyz
+9452securityserver854errordetected.xyz
 
 
 ### Shockers

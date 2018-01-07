@@ -1,26 +1,21 @@
-# Scams
-promo-psc.de
-www.promo-psc.de
-freepresents.de
-www.freepresents.de
-exchange-paysafecard.org
-www.exchange-paysafecard.org
-steamsummer.com
-www.steamsummer.com
-sapnaintl.com
-www.sapnaintl.com
 # Fake Sites
+
 katcr.to
 www.katcr.to
+
 # Adware/Spyware Spreaders
+
 chip.de
 www.chip.de
+
 # Used in Adware/Spyware/Malware
+
 www1.online
+sdk.open.phone.igexin.com
+
 # Doxing Sites
+
 dox.sx
 dox.su
 dox.host
 dox.ninja
-# Remote Access Endpoint
-sdk.open.phone.igexin.com
