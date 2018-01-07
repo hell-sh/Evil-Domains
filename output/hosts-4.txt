@@ -329,6 +329,10 @@
 # Tech Support Scams
 
 0.0.0.0 oydg18267d6f712fsg267sf1562ds1256fsg782gfsd1267.xyz
+0.0.0.0 mbc87fx127gs1h298s7g218s7f12s61d6712f612.xyz
+0.0.0.0 ngd7821d2718stf1267fs12765sf5162ds126sd127sd1256.xyz
+0.0.0.0 kdhg1728sf76287sh2187sf7612sf126sf1276fs12.xyz
+0.0.0.0 bankinterneterrors.xyz
 0.0.0.0 0452securityserver854errordetected.xyz
 0.0.0.0 6452securityserver854errordetected.xyz
 0.0.0.0 7452securityserver854errordetected.xyz
