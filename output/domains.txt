@@ -254,7 +254,6 @@ blasze.tk
 ipgrab.org
 i.gyazos.com
 
-
 ### Other
 
 # Fake Sites
@@ -278,7 +277,6 @@ dox.sx
 dox.su
 dox.host
 dox.ninja
-
 
 ### Phishing
 
@@ -329,7 +327,6 @@ oydg18267d6f712fsg267sf1562ds1256fsg782gfsd1267.xyz
 7452securityserver854errordetected.xyz
 8452securityserver854errordetected.xyz
 9452securityserver854errordetected.xyz
-
 
 ### Shockers
 

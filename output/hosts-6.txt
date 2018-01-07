@@ -261,7 +261,6 @@
 :: ipgrab.org
 :: i.gyazos.com
 
-
 ### Other
 
 # Fake Sites
@@ -285,7 +284,6 @@
 :: dox.su
 :: dox.host
 :: dox.ninja
-
 
 ### Phishing
 
@@ -336,7 +334,6 @@
 :: 7452securityserver854errordetected.xyz
 :: 8452securityserver854errordetected.xyz
 :: 9452securityserver854errordetected.xyz
-
 
 ### Shockers
 
