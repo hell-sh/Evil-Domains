@@ -295,8 +295,9 @@
 0.0.0.0 www.kundensupport-amazon-de-8me9mjnms9uat39.gdn
 0.0.0.0 xn--myethewallet-bkc.com
 0.0.0.0 www.xn--myethewallet-bkc.com
+0.0.0.0 mypayment-coinbase.com
 
-### Possible Phishing
+# Possible Phishing
 
 0.0.0.0 optifine.me
 0.0.0.0 optifine.co
