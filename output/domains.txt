@@ -233,12 +233,6 @@ www.hondachat.com
 www.bvog.com
 www.youramonkey.com
 
-# Freenom.link
-
-freenom.link
-youutube.ga
-freegenerator.tk
-
 # Pronosparadise
 
 pronosparadise.com

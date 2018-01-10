@@ -240,12 +240,6 @@
 0.0.0.0 www.bvog.com
 0.0.0.0 www.youramonkey.com
 
-# Freenom.link
-
-0.0.0.0 freenom.link
-0.0.0.0 youutube.ga
-0.0.0.0 freegenerator.tk
-
 # Pronosparadise
 
 0.0.0.0 pronosparadise.com
