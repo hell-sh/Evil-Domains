@@ -290,6 +290,7 @@
 0.0.0.0 xn--myethewallet-bkc.com
 0.0.0.0 www.xn--myethewallet-bkc.com
 0.0.0.0 mypayment-coinbase.com
+0.0.0.0 cinematicshooter.com
 
 # Possible Phishing
 

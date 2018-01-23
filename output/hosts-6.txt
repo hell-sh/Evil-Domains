@@ -290,6 +290,7 @@
 :: xn--myethewallet-bkc.com
 :: www.xn--myethewallet-bkc.com
 :: mypayment-coinbase.com
+:: cinematicshooter.com
 
 # Possible Phishing
 
