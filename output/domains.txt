@@ -276,6 +276,20 @@ dox.su
 dox.host
 dox.ninja
 
+# Miners
+
+coinhive.com
+coin-hive.com
+load.jsecoin.com
+crypto-loot.com
+webmine.pro
+cryptoloot.pro
+analytics.blue
+p.hemnes.win
+coin-have.com
+browsermining.io
+
+
 ### Phishing
 
 kunden.paypal.de-vorgangsnummer-aagxt55d.top

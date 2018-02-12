@@ -283,6 +283,20 @@
 0.0.0.0 dox.host
 0.0.0.0 dox.ninja
 
+# Miners
+
+0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
+0.0.0.0 load.jsecoin.com
+0.0.0.0 crypto-loot.com
+0.0.0.0 webmine.pro
+0.0.0.0 cryptoloot.pro
+0.0.0.0 analytics.blue
+0.0.0.0 p.hemnes.win
+0.0.0.0 coin-have.com
+0.0.0.0 browsermining.io
+
+
 ### Phishing
 
 0.0.0.0 kunden.paypal.de-vorgangsnummer-aagxt55d.top
