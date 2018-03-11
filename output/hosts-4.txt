@@ -339,6 +339,8 @@
 0.0.0.0 www.steamsummer.com
 0.0.0.0 sapnaintl.com
 0.0.0.0 www.sapnaintl.com
+0.0.0.0 fortnite-vbuck.com
+0.0.0.0 www.fortnite-vbuck.com
 
 # Tech Support Scams
 
