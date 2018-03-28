@@ -190,6 +190,7 @@
 0.0.0.0 joinn.ga
 0.0.0.0 faceboo.ga
 0.0.0.0 xxox.co.uk
+0.0.0.0 stopify.co
 
 # SkypeGrab
 

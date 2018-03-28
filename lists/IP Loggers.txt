@@ -27,6 +27,7 @@ gyazo.ml
 joinn.ga
 faceboo.ga
 xxox.co.uk
+stopify.co
 
 # SkypeGrab
 
