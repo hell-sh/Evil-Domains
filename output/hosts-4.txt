@@ -342,6 +342,8 @@
 0.0.0.0 www.sapnaintl.com
 0.0.0.0 fortnite-vbuck.com
 0.0.0.0 www.fortnite-vbuck.com
+0.0.0.0 regsitersedomain.info
+0.0.0.0 www.regsitersedomain.info
 
 # Tech Support Scams
 
