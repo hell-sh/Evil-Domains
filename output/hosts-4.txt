@@ -347,9 +347,10 @@
 0.0.0.0 www.fortnite-vbuck.com
 0.0.0.0 regsitersedomain.info
 0.0.0.0 www.regsitersedomain.info
-
-# Tech Support Scams
-
+0.0.0.0 kerstmis.us
+0.0.0.0 www.kerstmis.us
+0.0.0.0 salottobar.com
+0.0.0.0 wwww.salottobar.com
 0.0.0.0 oydg18267d6f712fsg267sf1562ds1256fsg782gfsd1267.xyz
 0.0.0.0 mbc87fx127gs1h298s7g218s7f12s61d6712f612.xyz
 0.0.0.0 ngd7821d2718stf1267fs12765sf5162ds126sd127sd1256.xyz
