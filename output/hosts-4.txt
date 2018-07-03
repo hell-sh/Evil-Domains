@@ -176,24 +176,26 @@
 # Grabify
 
 0.0.0.0 grabify.link
-0.0.0.0 starbucks.bio
-0.0.0.0 shört.co
-0.0.0.0 printscr.gq
-0.0.0.0 dropboxx.ga
-0.0.0.0 dropboxx.cf
-0.0.0.0 prntsc.cf
-0.0.0.0 grabify.ga
-0.0.0.0 leakforum.ml
-0.0.0.0 deviantartt.ga
-0.0.0.0 leakforum.ga
-0.0.0.0 strawpolll.ga
-0.0.0.0 twitte.ga
-0.0.0.0 prntscreen.ml
-0.0.0.0 gyazo.ml
-0.0.0.0 joinn.ga
-0.0.0.0 faceboo.ga
-0.0.0.0 xxox.co.uk
+0.0.0.0 bmwforum.co
+0.0.0.0 leancoding.co
+0.0.0.0 quickmessage.io
+0.0.0.0 spottyfly.com
+0.0.0.0 spötify.com
 0.0.0.0 stopify.co
+0.0.0.0 yoütu.be
+0.0.0.0 yoütübe.co
+0.0.0.0 yoütübe.com
+0.0.0.0 xda-developers.io
+0.0.0.0 starbucksiswrong.com
+0.0.0.0 starbucksisbadforyou.com
+0.0.0.0 bucks.as
+0.0.0.0 discörd.com
+0.0.0.0 minecräft.com
+0.0.0.0 cyberh1.xyz
+0.0.0.0 discördapp.com
+0.0.0.0 freegiftcards.co
+0.0.0.0 disçordapp.com
+0.0.0.0 rëddït.com
 
 # SkypeGrab
 

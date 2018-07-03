@@ -169,24 +169,26 @@ www.fuglekos.com
 # Grabify
 
 grabify.link
-starbucks.bio
-shört.co
-printscr.gq
-dropboxx.ga
-dropboxx.cf
-prntsc.cf
-grabify.ga
-leakforum.ml
-deviantartt.ga
-leakforum.ga
-strawpolll.ga
-twitte.ga
-prntscreen.ml
-gyazo.ml
-joinn.ga
-faceboo.ga
-xxox.co.uk
+bmwforum.co
+leancoding.co
+quickmessage.io
+spottyfly.com
+spötify.com
 stopify.co
+yoütu.be
+yoütübe.co
+yoütübe.com
+xda-developers.io
+starbucksiswrong.com
+starbucksisbadforyou.com
+bucks.as
+discörd.com
+minecräft.com
+cyberh1.xyz
+discördapp.com
+freegiftcards.co
+disçordapp.com
+rëddït.com
 
 # SkypeGrab
 
