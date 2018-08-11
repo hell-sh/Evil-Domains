@@ -314,7 +314,11 @@
 0.0.0.0 xn--myethewallet-bkc.com
 0.0.0.0 www.xn--myethewallet-bkc.com
 0.0.0.0 mypayment-coinbase.com
+0.0.0.0 www.mypayment-coinbase.com
 0.0.0.0 cinematicshooter.com
+0.0.0.0 www.cinematicshooter.com
+0.0.0.0 help-lnstagram.com
+0.0.0.0 www.help-lnstagram.com
 
 # Possible Phishing
 
