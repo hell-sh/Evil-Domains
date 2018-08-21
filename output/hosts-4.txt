@@ -372,11 +372,11 @@
 
 0.0.0.0 agor.io
 0.0.0.0 www.agor.io
-0.0.0.0 akk.li
-0.0.0.0 www.akk.li
 0.0.0.0 herobrine.com
 0.0.0.0 www.herobrine.com
 0.0.0.0 soldaten.cc
 0.0.0.0 www.soldaten.cc
 0.0.0.0 spankwire.com
 0.0.0.0 www.spankwire.com
+0.0.0.0 shafou.com
+0.0.0.0 www.shafou.com
