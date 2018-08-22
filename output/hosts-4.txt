@@ -197,39 +197,22 @@
 0.0.0.0 disçordapp.com
 0.0.0.0 rëddït.com
 
-# SkypeGrab
+# Cyberhub (formerly SkypeGrab)
 
-0.0.0.0 skypegrab.net
-0.0.0.0 sĸype.com
-0.0.0.0 en.sĸype.com
-0.0.0.0 web.sĸype.com
-0.0.0.0 www.sĸype.com
-0.0.0.0 csgopot.zone
-0.0.0.0 hackfȯrums.net
-0.0.0.0 hackfȯrums.com
-0.0.0.0 imgúr.com
-0.0.0.0 battlė.net
-0.0.0.0 us.battlė.net
-0.0.0.0 eu.battlė.net
-0.0.0.0 r1p.pw
-0.0.0.0 webprofile.me
-0.0.0.0 anonymousforum.pw
-0.0.0.0 freeanonymous.host
-0.0.0.0 ts3free.top
-0.0.0.0 viphackforum.xyz
-0.0.0.0 bbcnews.today
-0.0.0.0 privatexmpp.me
-0.0.0.0 topstreaming.us
-0.0.0.0 topcdn.biz
-0.0.0.0 hackernews.online
-0.0.0.0 ampnode.host
-0.0.0.0 spoofing.host
-0.0.0.0 cubeupload.xyz
-0.0.0.0 exploit-db.xyz
-0.0.0.0 gyazoo.xyz
-0.0.0.0 ipddoser.xyz
-0.0.0.0 skypecracker.xyz
-0.0.0.0 postimage.co
+0.0.0.0 ġooģle.com
+0.0.0.0 drive.ġooģle.com
+0.0.0.0 maps.ġooģle.com
+0.0.0.0 disċordapp.com
+0.0.0.0 ìṃgur.com
+0.0.0.0 transferfiles.cloud
+0.0.0.0 tvshare.co
+0.0.0.0 publicwiki.me
+0.0.0.0 hbotv.co
+0.0.0.0 gameskeys.shop
+0.0.0.0 videoblog.tech
+0.0.0.0 twitch-stats.stream
+0.0.0.0 anonfiles.download
+0.0.0.0 bbcbloggers.co.uk
 
 # Yip
 

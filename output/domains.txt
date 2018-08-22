@@ -190,39 +190,22 @@ freegiftcards.co
 disçordapp.com
 rëddït.com
 
-# SkypeGrab
+# Cyberhub (formerly SkypeGrab)
 
-skypegrab.net
-sĸype.com
-en.sĸype.com
-web.sĸype.com
-www.sĸype.com
-csgopot.zone
-hackfȯrums.net
-hackfȯrums.com
-imgúr.com
-battlė.net
-us.battlė.net
-eu.battlė.net
-r1p.pw
-webprofile.me
-anonymousforum.pw
-freeanonymous.host
-ts3free.top
-viphackforum.xyz
-bbcnews.today
-privatexmpp.me
-topstreaming.us
-topcdn.biz
-hackernews.online
-ampnode.host
-spoofing.host
-cubeupload.xyz
-exploit-db.xyz
-gyazoo.xyz
-ipddoser.xyz
-skypecracker.xyz
-postimage.co
+ġooģle.com
+drive.ġooģle.com
+maps.ġooģle.com
+disċordapp.com
+ìṃgur.com
+transferfiles.cloud
+tvshare.co
+publicwiki.me
+hbotv.co
+gameskeys.shop
+videoblog.tech
+twitch-stats.stream
+anonfiles.download
+bbcbloggers.co.uk
 
 # Yip
 
