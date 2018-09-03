@@ -543,6 +543,10 @@
 :: help-lnstagram.com
 0.0.0.0 www.help-lnstagram.com
 :: www.help-lnstagram.com
+0.0.0.0 xmalknc.com
+:: xmalknc.com
+0.0.0.0 www.xmalknc.com
+:: www.xmalknc.com
 
 # Possible Phishing
 
