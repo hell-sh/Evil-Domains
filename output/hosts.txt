@@ -547,6 +547,10 @@
 :: xmalknc.com
 0.0.0.0 www.xmalknc.com
 :: www.xmalknc.com
+0.0.0.0 yahooonline.info
+:: yahooonline.info
+0.0.0.0 www.yahooonline.info
+:: www.yahooonline.info
 
 # Possible Phishing
 
