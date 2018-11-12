@@ -608,10 +608,6 @@
 :: fortnite-vbuck.com
 0.0.0.0 www.fortnite-vbuck.com
 :: www.fortnite-vbuck.com
-0.0.0.0 regsitersedomain.info
-:: regsitersedomain.info
-0.0.0.0 www.regsitersedomain.info
-:: www.regsitersedomain.info
 0.0.0.0 kerstmis.us
 :: kerstmis.us
 0.0.0.0 www.kerstmis.us
@@ -640,6 +636,23 @@
 :: 8452securityserver854errordetected.xyz
 0.0.0.0 9452securityserver854errordetected.xyz
 :: 9452securityserver854errordetected.xyz
+
+# SEO Scams
+
+0.0.0.0 regsitersedomain.info
+:: regsitersedomain.info
+0.0.0.0 www.regsitersedomain.info
+:: www.regsitersedomain.info
+0.0.0.0 submitmydomain.org
+:: submitmydomain.org
+0.0.0.0 www.submitmydomain.org
+:: www.submitmydomain.org
+0.0.0.0 domainsiteregistration.com
+:: domainsiteregistration.com
+0.0.0.0 www.domainsiteregistration.com
+:: www.domainsiteregistration.com
+0.0.0.0 cloud.domainsiteregistration.com
+:: cloud.domainsiteregistration.com
 
 ### Shockers
 
