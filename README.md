@@ -1,17 +1,7 @@
-# Evil-Domains
+# Evil Domains
 
-Basically another hosts file project.
+Evil domains for our [Collective Hosts File Project](https://hell.sh/hosts) that are not present in any other lists.
 
-Looking for Email Spam Domains? Check out [Email-Filters](https://github.com/hell-sh/Email-Filters).
+You might also be interested in our [Email Filters](https://github.com/hell-sh/Email-Filters).
 
-## Outputs
-
-It is not recommended to only use this list as your hosts file, as it is lacking a lot of other evil domains, which are already in other lists. I recommend a list which is automatically being filled by lots of lists like this one, like [the Collective Hosts File Project by Hell.sh](https://hell.sh/hosts).
-
-- [Domains only](https://github.com/timmyrs/Evil-Domains/blob/master/output/domains.txt) ([Raw](https://raw.githubusercontent.com/timmyrs/Evil-Domains/master/output/domains.txt))
-- [Hosts File](https://github.com/timmyrs/Evil-Domains/blob/master/output/hosts.txt) ([Raw](https://raw.githubusercontent.com/timmyrs/Evil-Domains/master/output/hosts.txt))
-
-## Contributers
-
-- [Tim "timmyRS" Speckhals](https://timmyrs.de)
-- ["Senk Ju"](https://twitter.com/senkju)
+The initial list was made by ["Senk Ju"](https://twitter.com/senkju) and this project continued from there.

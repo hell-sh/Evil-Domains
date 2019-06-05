@@ -1,5 +1,5 @@
 # Evil Domains
-# https://github.com/timmyrs/Evil-Domains
+# https://github.com/hell-sh/Evil-Domains
 
 ### Advertisements
 
