@@ -1,0 +1,7 @@
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons.gcp.gvt2.com
+analytics33.techsmith.com

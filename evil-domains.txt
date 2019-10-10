@@ -278,15 +278,6 @@ p.hemnes.win
 coin-have.com
 browsermining.io
 
-# Trackers
-
-beacons.gvt2.com
-beacons2.gvt2.com
-beacons3.gvt2.com
-beacons4.gvt2.com
-beacons5.gvt2.com
-beacons.gcp.gvt2.com
-
 ### Phishing
 
 kunden.paypal.de-vorgangsnummer-aagxt55d.top
@@ -376,3 +367,13 @@ spankwire.com
 www.spankwire.com
 shafou.com
 www.shafou.com
+
+### Trackers
+
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons.gcp.gvt2.com
+analytics33.techsmith.com
