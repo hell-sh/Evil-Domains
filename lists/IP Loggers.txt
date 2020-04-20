@@ -18,22 +18,10 @@ curiouscat.club
 catsnthings.fun
 catsnthings.com
 
-# Cyberhub (formerly SkypeGrab)
+# Webresolver.nl
 
-ġooģle.com
-drive.ġooģle.com
-maps.ġooģle.com
-disċordapp.com
-ìṃgur.com
-transferfiles.cloud
-tvshare.co
-publicwiki.me
-hbotv.co
-gameskeys.shop
-videoblog.tech
-twitch-stats.stream
-anonfiles.download
-bbcbloggers.co.uk
+xn--yutube-iqc.com
+gyazo.nl
 
 # Yip
 
