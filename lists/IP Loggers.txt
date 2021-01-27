@@ -8,6 +8,10 @@ i.imgur.com.de
 www.fuglekos.com
 discord.kim
 
+# Addon.to
+
+prntcrs.com
+
 # Grabify
 
 grabify.link
