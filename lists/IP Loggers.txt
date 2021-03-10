@@ -22,6 +22,18 @@ joinmy.site
 curiouscat.club
 catsnthings.fun
 catsnthings.com
+lovebird.guru
+trulove.guru
+dateing.club
+headshot.monster
+yourmy.monster
+screenshare.host 
+imageshare.best
+screenshot.best
+gamingfun.me 
+mypic.icu
+fortnitechat.site
+fortnight.space
 
 # Webresolver.nl
 
@@ -39,6 +51,10 @@ iplogger.ru
 iplis.ru
 iplo.ru
 ezstat.ru
+iplogger.co
+iplogger.info
+ipgrabber.ru
+ipgraber.ru
 
 # What's their IP
 
